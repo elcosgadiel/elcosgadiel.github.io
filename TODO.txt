@@ -1,2 +1,3 @@
   #TODO AÑADIR META TAG DESCRIPTION Y KEYWORDS
-  # TODO Our Clients
+  # TODO Añadir Our Clients
+#TODO quitar enlaces que llevan a detalle
